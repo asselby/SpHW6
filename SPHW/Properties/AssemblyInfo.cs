@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("HWSP6")]
+[assembly: AssemblyTitle("SemaphoreHW")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("HWSP6")]
+[assembly: AssemblyProduct("SemaphoreHW")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("d3b6900e-edf7-4626-99ea-6787c605b586")]
+[assembly: Guid("adf6fd55-25a4-4bce-b9f9-def0e089f6b9")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //
